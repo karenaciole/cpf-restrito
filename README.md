@@ -1,6 +1,6 @@
-[English](https://github.com/karenaciole/cpf-restrito/edit/master/README.md#about-the-application)
+[English](https://github.com/karenaciole/cpf-restrito/master/README.md#about-the-application)
 
-[PT-BR](https://github.com/karenaciole/cpf-restrito/edit/master/README.md#sobre-a-aplicação)
+[PT-BR](https://github.com/karenaciole/cpf-restrito/master/README.md#sobre-a-aplicação)
 
 # About the application
 
